@@ -4,7 +4,7 @@
 2. sorted_alice.txt will be the output of your program
 3. Remove all lines not containing at least one letter character {a-z, A-Z'} from the input file
 4. Sort all lines alphabetically, with 'a' being the highest ranked character and 'z' being the lowest ranked
-5. Character case is ingored
+5. Character case is ignored
 6. Spaces do not effect line ranking
 7. Print out system time at start and end of your programs run
 8. Try to get it to sort in less than 1s!
